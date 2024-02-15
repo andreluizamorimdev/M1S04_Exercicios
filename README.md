@@ -15,3 +15,6 @@
     Combine duas strings usando o operador de concatenação e exiba o resultado no console.
     Utilize o template string ou a concatenação simples.
 
+## Exercicio 04 - Função com parâmetros
+
+    Crie uma função que receba dois números como parâmetros e retorne sua soma no console.log.
