@@ -18,3 +18,7 @@
 ## Exercicio 04 - Função com parâmetros
 
     Crie uma função que receba dois números como parâmetros e retorne sua soma no console.log.
+
+## Exercicio 05 - Estruturas condicionais
+
+    Utilize uma estrutura condicional (if,else) para verificar se um número é positivo, negativo ou zero. Exiba os valores no console.log().
