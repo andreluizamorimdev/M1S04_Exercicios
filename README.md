@@ -30,3 +30,7 @@
 ## Exercicio 07 - Função cumprimentos
 
     Crie uma função que receba o valor de uma hora qualquer, e exibe no console uma mensagem de “bom dia”, “boa tarde” ou “boa noite”, de acordo com a hora passada.
+
+## Exercicio 08 - Função par/impar
+
+    Implemente uma função que determine se um número é par ou ímpar.
