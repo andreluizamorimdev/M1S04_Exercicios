@@ -22,3 +22,7 @@
 ## Exercicio 05 - Estruturas condicionais
 
     Utilize uma estrutura condicional (if,else) para verificar se um número é positivo, negativo ou zero. Exiba os valores no console.log().
+
+## Exercicio 06 - Objetos
+
+    Crie 3 objetos com propriedades representando informações pessoais (nome, idade, nacionalidade e profissão) e exiba essas informações com um console.log para cada objeto.
