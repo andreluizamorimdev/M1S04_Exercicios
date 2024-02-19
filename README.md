@@ -34,3 +34,7 @@
 ## Exercicio 08 - Função par/impar
 
     Implemente uma função que determine se um número é par ou ímpar.
+
+## Exercicio 09 - Switch/case
+
+    Use um switch para exibir mensagens diferentes com base em uma condição.
