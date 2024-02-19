@@ -26,3 +26,7 @@
 ## Exercicio 06 - Objetos
 
     Crie 3 objetos com propriedades representando informações pessoais (nome, idade, nacionalidade e profissão) e exiba essas informações com um console.log para cada objeto.
+
+## Exercicio 07 - Função cumprimentos
+
+    Crie uma função que receba o valor de uma hora qualquer, e exibe no console uma mensagem de “bom dia”, “boa tarde” ou “boa noite”, de acordo com a hora passada.
